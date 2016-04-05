@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Úvodní příspěvek
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Vítám Vás na mém webu, na kterém se budu zabývat hudební skupinou **Boys Like Girls**. Předpokládám, že každý týden zde přibude něco nového. Ze začátku se Vám budu snažit přiblížit skupinu, odkud kluci pochází, jaký hrají styl a pak se podíváme i na jejich alba - dozvíte se mé *zajímavé* názory a snad se nebudete nudit.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Zatím se mějte krásně,
+Ennie
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+PS: Abych Vás naladila, tak ve zkratce: Boys Like Girls je americká čtyřčlenná skupina hrající převážně pop-rock.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dOD_HFqxmkM" frameborder="0" allowfullscreen></iframe>
