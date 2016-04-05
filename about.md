@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: Informace o webu
 permalink: /about/
 ---
 
-Some information about you!
+Na tomto webu naleznete informace o hudební skupině **Boys Like Girls**, která hraje pop rock. Boys Like Girls je čtyřčlenná skupina, která pochází z Bostonu. Od roku 2005 vydali tři albaV roce 2006 byli označeni za Umělce roku. 
 
-### More Information
+Členové skupiny:
+Martin Bennett Johnson - zpěvák a kytarista
+Morgan Dorr - baskytarista, doprovodný zpěv (od roku 2012)
+Paul Charles DiGiovanni - kytarista, doprovodný zpěv
+John Joseph Keefe - bubeník
+Bryan Francis Donahue - baskytarista (do roku 2011)
 
-A place to include any other types of information that you'd like to include about yourself.
+Více o skupině, již brzy na tomto webu.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JGPgxoIPY6Q" frameborder="0" allowfullscreen></iframe>
